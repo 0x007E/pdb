@@ -21846,7 +21846,7 @@
 				(justify mirror)
 			)
 		)
-		(property "HTL" "103270"
+		(property "HTL" "103557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")

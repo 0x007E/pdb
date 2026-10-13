@@ -9967,7 +9967,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k7"
+		(property "Value" "1k8"
 			(at 128.27 129.54 0)
 			(effects
 				(font
@@ -10003,7 +10003,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102958"
+		(property "HTL" "102955"
 			(at 127 130.81 0)
 			(effects
 				(font
@@ -17925,7 +17925,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "8k2"
+		(property "Value" "6k8"
 			(at 180.34 142.24 0)
 			(effects
 				(font
@@ -17961,7 +17961,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102966"
+		(property "HTL" "102964"
 			(at 181.61 143.51 0)
 			(effects
 				(font
@@ -18077,7 +18077,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "8k2"
+		(property "Value" "5k1"
 			(at 113.03 142.24 0)
 			(effects
 				(font
@@ -18113,7 +18113,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102966"
+		(property "HTL" "102962"
 			(at 114.3 143.51 0)
 			(effects
 				(font
@@ -18863,7 +18863,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "750"
+		(property "Value" "634"
 			(at 195.58 132.08 0)
 			(effects
 				(font
@@ -18899,7 +18899,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102949"
+		(property "HTL" "102947"
 			(at 194.31 130.81 0)
 			(effects
 				(font

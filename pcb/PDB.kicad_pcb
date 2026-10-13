@@ -4971,7 +4971,7 @@
 		(property "Reference" "U13"
 			(at 2.8 -3.3125 90)
 			(layer "F.SilkS")
-			(uuid "f2870757-d6bc-4a22-a7b0-1ffc9bd9a648")
+			(uuid "30eb92c5-0794-4303-8a96-7de4b6590b4d")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -4983,7 +4983,7 @@
 		(property "Value" "FT230XS"
 			(at -3 0.4875 180)
 			(layer "F.Fab")
-			(uuid "afbd918f-6335-4110-a38e-fea37b6e694a")
+			(uuid "3e9aa8e2-55f4-4b6e-9b48-494f29f366e3")
 			(effects
 				(font
 					(size 1 1)
@@ -4996,7 +4996,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "51884fd4-ac53-497b-af51-fcf15b4a5f83")
+			(uuid "772f4466-c988-45c8-9984-0e90f8210122")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5009,7 +5009,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b547606-19fb-45fb-b0eb-c174dfda32af")
+			(uuid "41e675b4-c7ef-45d4-b189-70614060898a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19503,7 +19503,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C13"
-			(at -0.0125 4.33 90)
+			(at -0.0125 -1.639 90)
 			(layer "B.SilkS")
 			(uuid "80597de5-a9fc-47ea-b279-262fd3283302")
 			(effects
@@ -20097,7 +20097,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at 0 4.169 90)
+			(at 0 -1.419 90)
 			(layer "B.SilkS")
 			(uuid "e7aab1ae-fd78-4a0a-b2d3-cf599b67e84d")
 			(effects
@@ -34385,6 +34385,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "8c15c3df-8bdb-4923-9fa5-1355c6e9d4a0")
+	)
+	(segment
+		(start 141.605 107.95)
+		(end 141.605 114.935)
+		(width 1)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "8d7782c6-5a6a-4dbd-b17c-346b5e92cac8")
 	)
 	(segment
 		(start 141.605 114.935)

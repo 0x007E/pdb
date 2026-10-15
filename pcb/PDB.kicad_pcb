@@ -15737,7 +15737,7 @@
 				)
 			)
 		)
-		(property "Value" "8k2"
+		(property "Value" "5k1"
 			(at 3.2365 0 90)
 			(layer "F.Fab")
 			(uuid "92d32c2f-f7bb-4761-aa80-db5a340f332d")
@@ -15796,7 +15796,7 @@
 				)
 			)
 		)
-		(property "HTL" "102966"
+		(property "HTL" "102962"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18466,7 +18466,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "750"
+		(property "Value" "634"
 			(at 3.1095 0 0)
 			(layer "B.Fab")
 			(uuid "54544dad-e661-4aa3-93d8-aa0124bcdfe3")
@@ -18528,7 +18528,7 @@
 				(justify mirror)
 			)
 		)
-		(property "HTL" "102949"
+		(property "HTL" "102947"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20858,7 +20858,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "2k7"
+		(property "Value" "1k8"
 			(at 0 -1.82 90)
 			(layer "B.Fab")
 			(uuid "c0425f38-27e6-4d22-864f-8cef6f28bcef")
@@ -20920,7 +20920,7 @@
 				(justify mirror)
 			)
 		)
-		(property "HTL" "102958"
+		(property "HTL" "102955"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26255,9 +26255,9 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R40"
-			(at 0.3195 3.937 90)
+			(at 1.1325 -1.65 90)
 			(layer "B.SilkS")
-			(uuid "54983962-8f0c-4766-b3f4-dd40ceab0eb0")
+			(uuid "002420af-cc75-4151-b0ca-e01087f50d77")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -26266,10 +26266,10 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "6k8"
 			(at 3.2405 0 90)
 			(layer "B.Fab")
-			(uuid "6195dcc5-9aa7-42cc-906e-e9e54e3b89e6")
+			(uuid "9276ce70-bf16-46f2-8bd4-9465bf80ab86")
 			(effects
 				(font
 					(size 1 1)
@@ -26282,7 +26282,7 @@
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "76041c24-4f38-44b9-befe-85cb1bea1c57")
+			(uuid "08090b1c-8ea0-4be5-bf53-599c7db712a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26294,7 +26294,7 @@
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b21901f9-1672-4f6d-9948-62909bcbce7b")
+			(uuid "cbe2baa6-d735-43a4-bd87-05d077236369")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26328,7 +26328,7 @@
 				(justify mirror)
 			)
 		)
-		(property "HTL" "102971"
+		(property "HTL" "102964"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26947,7 +26947,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R43"
-			(at -1.2085 4.191 90)
+			(at -0.3195 -1.397 90)
 			(layer "B.SilkS")
 			(uuid "41289369-e559-4506-96ed-410b4a4943c5")
 			(effects
@@ -26958,7 +26958,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "6k8"
+		(property "Value" "2k2"
 			(at -3.2405 0 90)
 			(layer "B.Fab")
 			(uuid "5d43bb5f-705f-40b1-987f-8d6fca6aeafb")
@@ -27020,7 +27020,7 @@
 				(justify mirror)
 			)
 		)
-		(property "HTL" "102964"
+		(property "HTL" "102956"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29608,7 +29608,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "8k2"
+		(property "Value" "6k8"
 			(at 0 -1.82 90)
 			(layer "B.Fab")
 			(uuid "51306481-46f2-4f0a-ad21-909650bda0f6")
@@ -29670,7 +29670,7 @@
 				(justify mirror)
 			)
 		)
-		(property "HTL" "102966"
+		(property "HTL" "102964"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")

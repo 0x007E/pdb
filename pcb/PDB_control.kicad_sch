@@ -4681,7 +4681,7 @@
 				)
 			)
 		)
-		(property "Value" "6k8"
+		(property "Value" "2k2"
 			(at 82.55 161.29 90)
 			(effects
 				(font
@@ -4716,7 +4716,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102964"
+		(property "HTL" "102956"
 			(at 80.01 161.29 90)
 			(effects
 				(font
@@ -5477,7 +5477,7 @@
 				)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "6k8"
 			(at 82.55 151.13 90)
 			(effects
 				(font
@@ -5512,7 +5512,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102971"
+		(property "HTL" "102964"
 			(at 80.01 151.13 90)
 			(effects
 				(font
